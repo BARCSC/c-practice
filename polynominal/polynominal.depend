@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508376373 source:d:\code\polynominal\main.c
+	<stdio.h>
+	<stdlib.h>
+
